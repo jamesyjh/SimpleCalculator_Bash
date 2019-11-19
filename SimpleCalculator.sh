@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: James Hong
-# Program Name: Calculator
+# Program Name: Simple Calculator
 # Usage: ./SimpleCalculator.sh
 # Date Created: August 16, 2019
 
